@@ -1,4 +1,5 @@
-# Data Structure | Estrutura de dados - Hiring Coders
+# Data Structure | Estrutura de dados 
+## Hiring Coders
 
 ### Prof. Isidro Massetto
 
